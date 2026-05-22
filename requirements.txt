@@ -1,0 +1,11 @@
+streamlit
+plotly
+yfinance
+scipy
+pandas
+numpy
+tqdm
+# pandas-ta blocks Python 3.14 during source build; install via wheel:
+#   pip download pandas-ta --no-deps -d /tmp/pdta
+#   pip install /tmp/pdta/pandas_ta-*.whl --no-deps
+pandas-ta
