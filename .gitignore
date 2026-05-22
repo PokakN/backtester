@@ -32,6 +32,9 @@ Thumbs.db
 # Streamlit
 .streamlit/secrets.toml
 
+# Claude Code
+.claude/
+
 # Data / cache
 *.csv
 *.parquet
